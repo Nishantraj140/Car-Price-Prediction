@@ -9,3 +9,5 @@ This is a classic regresion problem where the response is the price of the car a
 I have used heroku to deploy the app and the link is : 
 
 https://used-car-price-predictions.herokuapp.com/
+
+![](https://github.com/Nishantraj140/Car-Price-Prediction/blob/master/templates/Untitled.png)
